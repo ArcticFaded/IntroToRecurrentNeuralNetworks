@@ -13,12 +13,14 @@ dependencies:
 - pip:
   - absl-py==0.1.10
   - bleach==1.5.0
+  - chardet==3.0.4
   - colorama==0.3.9
   - cycler==0.10.0
   - decorator==4.2.1
   - entrypoints==0.2.3
   - futures==3.1.1
   - html5lib==0.9999999
+  - idna==2.6
   - ipykernel==4.8.0
   - ipython==6.2.1
   - ipython-genutils==0.2.0
@@ -55,16 +57,20 @@ dependencies:
   - pyyaml==3.12
   - pyzmq==16.0.4
   - qtconsole==4.3.1
+  - requests==2.18.4
+  - scikit-learn==0.19.1
   - scipy==1.0.0
   - send2trash==1.4.2
   - simplegeneric==0.8.1
   - six==1.11.0
+  - sklearn==0.0
   - tensorflow==1.5.0
   - tensorflow-tensorboard==1.5.0
   - terminado==0.8.1
   - testpath==0.3.1
   - tornado==4.5.3
   - traitlets==4.3.2
+  - urllib3==1.22
   - wcwidth==0.1.7
   - werkzeug==0.14.1
   - widgetsnbextension==3.1.3
